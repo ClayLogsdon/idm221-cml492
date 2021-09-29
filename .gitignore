@@ -45,6 +45,7 @@ Thumbs.db
 *.mp4
 *.ogg
 *.ogv
+*.gif
 *.webm
 *.psd
 *.png
@@ -53,17 +54,11 @@ Thumbs.db
 C:\Users\Clay\Documents\GitHub\idm221-cml492\Graphics
 C:\Users\Clay\Documents\GitHub\idm221-cml492\Images
 
-# Custom #
-######################
-*.gif
-/assignments
-contacts.md
+
 examples/**/*.jpg
 examples/**/*.png
 examples/05-css/fonts
 examples/06-box_model/02/fonts
 examples/06-box_model/02/images
 examples/week8/media
-graphics
 node_modules
-presentations/images
