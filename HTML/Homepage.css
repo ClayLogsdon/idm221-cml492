@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .topnav {
+    overflow: hidden;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #999;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    color: #191919;
+  }
+  
+  .topnav a.active {
+    color: #191919;
+    font-weight: bold;
+  }
+  
+  .tophead h1 {
+    text-align: center;
+    margin: auto;
+    width: 100%;
+    padding: 20px;
+  }
+  
+  .tophead p {
+    text-align: center;
+    margin: auto;
+    width: 100%;
+    padding: 20px;
+  }
+  
