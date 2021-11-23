@@ -3,11 +3,11 @@ body {
     font-family: Arial, Helvetica, sans-serif;
   }
   
-  .topnav {
+  .nav {
     overflow: hidden;
   }
   
-  .topnav a {
+  .nav a {
     float: left;
     color: #999;
     text-align: center;
@@ -16,16 +16,16 @@ body {
     font-size: 17px;
   }
   
-  .topnav a:hover {
+  .nav a:hover {
     color: #191919;
   }
   
-  .topnav a.active {
+  .nav a.active {
     color: #191919;
     font-weight: bold;
   }
   
-  .tophead h1 {
+  .head h1 {
     text-align: center;
     margin: auto;
     width: 100%;
@@ -33,7 +33,7 @@ body {
     font-size: 60px;
   }
   
-  .tophead p {
+  .head p {
     text-align: center;
     margin: auto;
     width: 100%;
