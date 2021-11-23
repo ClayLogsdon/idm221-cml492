@@ -27,6 +27,29 @@ body {
     font-weight: bold;
   }
 
+  .head h1 {
+    text-align: center;
+    margin: auto;
+    width: 100%;
+    padding: 20px;
+    font-size: 26px;
+  }
+  
+  .head p {
+    text-align: center;
+    margin: auto;
+    width: 100%;
+    padding: 20px;
+    position: relative;
+    top: -25px;
+    font-size: 14px;
+    color: #999;
+  }
+
 .about-box {
+    text-align: center;
+}
+
+.about p {
     text-align: center;
 }
