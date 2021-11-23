@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .nav {
+    overflow: hidden;
+  }
+  
+  .nav a {
+    float: left;
+    color: #999;
+    text-align: center;
+    padding: 14px 16px;
+    position: relative; 
+    top: 7px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .nav a:hover {
+    color: #191919;
+  }
+  
+  .nav a.active {
+    color: #191919;
+    font-weight: bold;
+  }
+  
+  .head h1 {
+    text-align: center;
+    margin: auto;
+    width: 100%;
+    padding: 20px;
+    font-size: 26px;
+  }
+  
+  .head p {
+    text-align: center;
+    margin: auto;
+    width: 100%;
+    padding: 20px;
+    position: relative;
+    top: -25px;
+    font-size: 14px;
+    color: #999;
+  }
+  
+  .box-wrapper {
+    text-align: center;
+  }
