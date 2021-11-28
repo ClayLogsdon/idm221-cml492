@@ -27,13 +27,13 @@ body {
     font-weight: bold;
   }
 
-  .head h1 {
+ /* .head h1 {
     text-align: center;
     margin: auto;
     width: 100%;
     padding: 20px;
     font-size: 26px;
-  }
+  } */
   
   .head p {
     text-align: center;
@@ -50,6 +50,14 @@ body {
     text-align: center;
 } */
 
+.container {
+  position: relative;
+  left: 1rem;
+  width: 355px;
+  position: relative;
+  top: 15px;
+}
+
   input[type=text], select, textarea {
   width: 100%;
   padding: 12px;
@@ -59,8 +67,7 @@ body {
   margin-top: 6px;
   margin-bottom: 16px;
   resize: vertical;
-  position: relative;
-  left: 1rem;
+ 
 
 }
 
@@ -71,8 +78,6 @@ input[type=submit] { /* the submit button */
   border: none;
   border-radius: 4px;
   cursor: pointer;
-  position: relative;
-  left: 1rem;
   
 }
 
