@@ -27,13 +27,13 @@ body {
     font-weight: bold;
   }
 
-  .head h1 {
+/* .head h1 {
     text-align: center;
     margin: auto;
     width: 100%;
     padding: 20px;
     font-size: 26px;
-  }
+  } */
   
   .head p {
     text-align: center;
@@ -46,10 +46,19 @@ body {
     color: #999;
   }
 
-.about-box {
+.about-photo {
     text-align: center;
+    position: relative;
+    
 }
 
 .about p {
     text-align: center;
+    margin: auto;
+    color: #A9A9A9; 
+    font-size: 14px;
+    font-weight: lighter;
+    line-height: 19px;
+    position: relative;
+    top: 10px;
 }
