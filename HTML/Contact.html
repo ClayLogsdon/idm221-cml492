@@ -18,13 +18,29 @@
 <div class="head h1">
   <h1>Contact</h1>
 </div>
-
+<!--
 <div class="contact-form">
 
     <div class="form name">
         <p>Your Name...</p>
       </div>
 
+</div>
+-->
+
+<div class="container">
+  <form action="/action_page.php">
+    <label for="name"><b>Name *</b><label>
+    <input type="text" id="name" name="fullname" placeholder="Your Name..">
+
+    <label for="email"><b>Email Address *</b></label>
+    <input type="text" id="email" name="e-mail" placeholder="Your Email Address..">
+
+    <label for="message"><b>Message *</b></label>
+    <textarea id="message" name="message" placeholder="Your Message..." style="height:200px"></textarea>
+
+    <input type="submit" value="Submit">
+  </form>
 </div>
 
 
