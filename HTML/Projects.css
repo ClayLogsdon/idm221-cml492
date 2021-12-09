@@ -30,6 +30,7 @@ body {
   .head h1 {
     text-align: center;
     margin: auto;
+    width: 100%;
     padding: 20px;
     font-size: 26px;
   }
@@ -37,6 +38,7 @@ body {
   .head p {
     text-align: center;
     margin: auto;
+    width: 100%;
     padding: 20px;
     position: relative;
     top: -25px;
@@ -61,12 +63,12 @@ body {
     font-size: 14px;
     color: #191919;
     position: relative;
-    top: -81px;
+    top: -80px;
   }
 
   .date {
     font-size: 14px;
     color: #999;
     position: relative;
-    top: -88px;
+    top: -87px;
   }
