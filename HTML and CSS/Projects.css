@@ -49,3 +49,26 @@ body {
   .box-wrapper {
     text-align: center;
   }
+
+  .projectbox-info {
+    width: 345px;
+    height: 84px;
+    background-color: #f3f3f3f9;
+    margin: auto;
+    position: relative;
+    top: -4px;
+  }
+
+  .app-name {
+    font-size: 14px;
+    color: #191919;
+    position: relative;
+    top: -82px;
+  }
+
+  .date {
+    font-size: 14px;
+    color: #999;
+    position: relative;
+    top: -89px;
+  }
