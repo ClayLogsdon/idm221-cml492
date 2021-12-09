@@ -70,3 +70,67 @@ body {
     position: relative;
     top: -88px;
   }
+
+  .box-wrapper-2 {
+    text-align: center;
+  }
+
+  .projectbox2-image {
+    position: relative;
+    top: -50px;
+  }
+
+  .projectbox2-info {
+    width: 345px;
+    height: 84px;
+    background-color: #f3f3f3f9;
+    margin: auto;
+    position: relative;
+    top: -54px;
+  }
+
+  .app-name-2 {
+    font-size: 14px;
+    color: #191919;
+    position: relative;
+    top: -131px;
+  }
+
+  .date-2 {
+    font-size: 14px;
+    color: #999;
+    position: relative;
+    top: -138px;
+  }
+
+  .box-wrapper-3 {
+    text-align: center;
+  }
+
+  .projectbox3-image {
+    position: relative;
+    top: -100px;
+  }
+
+  .projectbox3-info {
+    width: 345px;
+    height: 84px;
+    background-color: #f3f3f3f9;
+    margin: auto;
+    position: relative;
+    top: -104px;
+  }
+
+  .app-name-3 {
+    font-size: 14px;
+    color: #191919;
+    position: relative;
+    top: -181px;
+  }
+
+  .date-3 {
+    font-size: 14px;
+    color: #999;
+    position: relative;
+    top: -188px;
+  }
