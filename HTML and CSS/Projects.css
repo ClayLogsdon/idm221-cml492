@@ -11,11 +11,11 @@ body {
     float: left;
     color: #999;
     text-align: center;
-    padding: 14px 16px;
+    padding: 0.875rem 1rem;
     position: relative; 
-    top: 7px;
+    top: 0.4375rem;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 1.0625rem;
   }
   
   .nav a:hover {
@@ -30,17 +30,17 @@ body {
   .head h1 {
     text-align: center;
     margin: auto;
-    padding: 20px;
-    font-size: 26px;
+    padding: 1.25rem;
+    font-size: 1.625rem;
   }
   
   .head p {
     text-align: center;
     margin: auto;
-    padding: 20px;
+    padding: 1.25rem;
     position: relative;
-    top: -25px;
-    font-size: 14px;
+    top: -1.5625rem;
+    font-size: 0.875rem;
     color: #999;
   }
   
@@ -49,26 +49,26 @@ body {
   }
 
   .projectbox-info {
-    width: 345px;
-    height: 84px;
+    width: 21.5625rem;
+    height: 5.25rem;
     background-color: #f3f3f3f9;
     margin: auto;
     position: relative;
-    top: -4px;
+    top: -0.25rem;
   }
 
   .app-name {
-    font-size: 14px;
+    font-size: 0.875rem;
     color: #191919;
     position: relative;
-    top: -81px;
+    top: -5.0625rem;
   }
 
   .date {
-    font-size: 14px;
+    font-size: 0.875rem;
     color: #999;
     position: relative;
-    top: -88px;
+    top: -5.5rem;
   }
 
   .box-wrapper-2 {
@@ -77,30 +77,30 @@ body {
 
   .projectbox2-image {
     position: relative;
-    top: -50px;
+    top: -3.125rem;
   }
 
   .projectbox2-info {
-    width: 345px;
-    height: 84px;
+    width: 21.5625rem;
+    height: 5.25rem;
     background-color: #f3f3f3f9;
     margin: auto;
     position: relative;
-    top: -54px;
+    top: -3.375rem;
   }
 
   .app-name-2 {
-    font-size: 14px;
+    font-size: 0.875rem;
     color: #191919;
     position: relative;
-    top: -131px;
+    top: -8.1875rem;
   }
 
   .date-2 {
-    font-size: 14px;
+    font-size: 0.875rem;
     color: #999;
     position: relative;
-    top: -138px;
+    top: -8.625rem;
   }
 
   .box-wrapper-3 {
@@ -109,28 +109,28 @@ body {
 
   .projectbox3-image {
     position: relative;
-    top: -100px;
+    top: -6.25rem;
   }
 
   .projectbox3-info {
-    width: 345px;
-    height: 84px;
+    width: 21.5625rem;
+    height: 5.25rem;
     background-color: #f3f3f3f9;
     margin: auto;
     position: relative;
-    top: -104px;
+    top: -6.5rem;
   }
 
   .app-name-3 {
-    font-size: 14px;
+    font-size: 0.875rem;
     color: #191919;
     position: relative;
-    top: -181px;
+    top: -11.3125rem;
   }
 
   .date-3 {
-    font-size: 14px;
+    font-size: 0.875rem;
     color: #999;
     position: relative;
-    top: -188px;
+    top: -11.75rem;
   }

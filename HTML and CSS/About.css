@@ -11,11 +11,11 @@ body {
     float: left;
     color: #999;
     text-align: center;
-    padding: 14px 16px;
+    padding: 0.875rem 1rem;
     position: relative; 
-    top: 7px;
+    top: 0.4375rem;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 1.0625rem;
   }
   
   .nav a:hover {
@@ -31,34 +31,34 @@ body {
     text-align: center;
     margin: auto;
     width: 100%;
-    padding: 20px;
-    font-size: 26px;
+    padding: 1.25rem;
+    font-size: 1.625rem;
   } */
   
   .head p {
     text-align: center;
     margin: auto;
     width: 100%;
-    padding: 20px;
+    padding: 1.25rem;
     position: relative;
-    top: -25px;
-    font-size: 14px;
+    top: -1.5625rem;
+    font-size: 0.875rem;
     color: #999;
   }
 
 .about-photo {
     text-align: center;
     position: relative;
-    bottom: -10px;
+    bottom: -0.625rem;
 }
 
 .about p {
     text-align: center;
     margin: auto;
     color: #A9A9A9; 
-    font-size: 14px;
+    font-size: 0.875rem;
     font-weight: lighter;
-    line-height: 19px;
+    line-height: 1.1875rem;
     position: relative;
-    top: 10px;
+    top: 0.625rem;
 }

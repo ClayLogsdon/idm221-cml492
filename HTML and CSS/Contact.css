@@ -11,11 +11,11 @@ body {
     float: left;
     color: #999;
     text-align: center;
-    padding: 14px 16px;
+    padding: 0.875rem 1rem;
     position: relative; 
-    top: 7px;
+    top: 0.4375rem;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 1.0625rem;
   }
   
   .nav a:hover {
@@ -31,56 +31,50 @@ body {
     text-align: center;
     margin: auto;
     width: 100%;
-    padding: 20px;
-    font-size: 26px;
+    padding: 1.25rem;
+    font-size: 1.625rem;
   } */
   
   .head p {
     text-align: center;
     margin: auto;
     width: 100%;
-    padding: 20px;
+    padding: 1.25rem;
     position: relative;
-    top: -25px;
-    font-size: 14px;
+    top: -1.5625rem;
+    font-size: 0.875rem;
     color: #999;
   }
-
-/*  .contact-form {
-    text-align: center;
-} */
 
 .container {
   position: relative;
   left: 1rem;
-  width: 355px;
+  width: 22.1875rem;
   position: relative;
-  top: 15px;
+  top: 0.9375rem;
 }
 
   input[type=text], select, textarea {
   width: 100%;
-  padding: 12px;
-  border: 1px solid #ccc;
-  border-radius: 4px;
+  padding: 0.75rem;
+  border: 0.0625rem solid #ccc;
+  border-radius: 0.25rem;
   box-sizing: border-box;
-  margin-top: 6px;
-  margin-bottom: 16px;
+  margin-top: 0.375rem;
+  margin-bottom: 1rem;
   resize: vertical;
- 
 
 }
 
-input[type=submit] { /* the submit button */
+input[type=submit] { /* the submit button - inactive */
   background-color: #333;
   color: white;
-  padding: 12px 20px;
+  padding: 0.75rem 1.25rem;
   border: none;
-  border-radius: 4px;
-  cursor: pointer;
-  
+  border-radius: 0.25rem;
+  cursor: pointer;  
 }
 
-input[type=submit]:hover {
+input[type=submit]:hover { /* the submit button - active [by way of hover] */
   background-color: #45a049;
 }
